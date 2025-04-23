@@ -29,5 +29,7 @@ Also, I apply mass mutation on the best candidate to have an even better initial
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 To solve a problem, pass the corresponding csv file and set the hyperparameters in the main function of the algorithm.py
+
 You can also check the report file where I present results, share insights and make comments about the design process and the general performance of the algorithm.
+
 Using numpy and numba for better code performance.
